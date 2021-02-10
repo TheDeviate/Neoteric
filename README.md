@@ -1,2 +1,2 @@
 # Neoteric
-Modern point andclick game.
+Modern point and click game.
